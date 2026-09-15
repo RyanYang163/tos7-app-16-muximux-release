@@ -1,0 +1,9 @@
+Package: tos7-app-16-muximux
+Version: 2.0.0
+Architecture: amd64
+Section: utils
+Priority: optional
+Maintainer: TOS Review Test Corpus <review-test@example.invalid>
+Depends: libc6 (>= 2.34), systemd
+Description: Muximux
+ A lightweight portal for managing all your self-hosted applications in one place.

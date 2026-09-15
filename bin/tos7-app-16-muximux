@@ -1,0 +1,3 @@
+#!/bin/sh
+# Muximux launcher (test fixture)
+exec /usr/local/tos7-app-16-muximux/bin/tos7-app-16-muximux-real "$@"

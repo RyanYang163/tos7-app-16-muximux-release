@@ -1,0 +1,24 @@
+[Unit]
+Description=Muximux Service
+After=network.target
+StartLimitBurst=5
+StartLimitIntervalSec=60
+
+[Service]
+Type=simple
+User=muximux
+Group=muximux
+WorkingDirectory=/usr/local/tos7-app-16-muximux
+ExecStart=/usr/local/tos7-app-16-muximux/bin/tos7-app-16-muximux
+EnvironmentFile=/usr/local/tos7-app-16-muximux/tos7-app-16-muximux.env
+TimeoutStartSec=30
+TimeoutStopSec=10
+
+# Security hardening
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target

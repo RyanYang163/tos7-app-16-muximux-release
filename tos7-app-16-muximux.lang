@@ -1,0 +1,97 @@
+[en-us]
+name = "Muximux"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight portal for managing all your self-hosted applications in one place."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[zh-cn]
+name = "Muximux"
+auth = "TOS Review Test Corpus"
+descript = "在一个地方集中管理所有自托管应用的轻量级门户。"
+release_note = "1. 首次发布。"
+important = "需要先安装并启用 DockerEngine。"
+
+[zh-hk]
+name = "Muximux"
+auth = "TOS Review Test Corpus"
+descript = "在一個地方集中管理所有自託管應用的輕量級門戶。"
+release_note = "1. 首次发布。"
+important = "需要先安装并启用 DockerEngine。"
+
+[fr-fr]
+name = "Muximux"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight portal for managing all your self-hosted applications in one place."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[de-de]
+name = "Muximux"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight portal for managing all your self-hosted applications in one place."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[it-it]
+name = "Muximux"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight portal for managing all your self-hosted applications in one place."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[es-es]
+name = "Muximux"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight portal for managing all your self-hosted applications in one place."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[hu-hu]
+name = "Muximux"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight portal for managing all your self-hosted applications in one place."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[ja-jp]
+name = "Muximux"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight portal for managing all your self-hosted applications in one place."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[ko-kr]
+name = "Muximux"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight portal for managing all your self-hosted applications in one place."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[pl-pl]
+name = "Muximux"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight portal for managing all your self-hosted applications in one place."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[ru-ru]
+name = "Muximux"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight portal for managing all your self-hosted applications in one place."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[tr-tr]
+name = "Muximux"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight portal for managing all your self-hosted applications in one place."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
+
+[pt-pt]
+name = "Muximux"
+auth = "TOS Review Test Corpus"
+descript = "A lightweight portal for managing all your self-hosted applications in one place."
+release_note = "1. Initial release."
+important = "Requires DockerEngine from the TOS App Center."
